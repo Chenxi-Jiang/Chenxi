@@ -138,7 +138,3 @@ For educators and instructional designers:
 Sailer, M., & Homner, L. (2020). The Gamification of Learning: a Meta-analysis. *Educational Psychology Review*, 32, 77–112.
 
 https://doi.org/10.1007/s10648-019-09498-w
-
----
-
-## 📁 Repository Structure
